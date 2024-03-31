@@ -45,5 +45,3 @@ The robot is programmed to perform the following tasks:
 - Ensure proper calibration of sensors for accurate detection.
 - This code serves as a basic framework and can be expanded upon for more complex behaviors.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
